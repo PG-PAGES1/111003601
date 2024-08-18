@@ -1,0 +1,209 @@
+
+jiesuan.png
+size: 2033,785
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_mg_fs_unpack/mh_vfx_01_add
+  rotate: false
+  xy: 760, 610
+  size: 324, 174
+  orig: 324, 174
+  offset: 0, 0
+  index: -1
+bg_mg_fs_unpack/tw_coin_normal
+  rotate: false
+  xy: 1, 4
+  size: 432, 780
+  orig: 432, 780
+  offset: 0, 0
+  index: -1
+bg_mg_fs_unpack/tw_flare_a_screen
+  rotate: false
+  xy: 435, 265
+  size: 315, 194
+  orig: 315, 194
+  offset: 0, 0
+  index: -1
+bg_mg_fs_unpack/tw_flare_b_add
+  rotate: false
+  xy: 435, 461
+  size: 323, 323
+  orig: 323, 323
+  offset: 0, 0
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_00
+  rotate: false
+  xy: 1596, 82
+  size: 77, 79
+  orig: 389, 389
+  offset: 154, 159
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_01
+  rotate: false
+  xy: 1497, 60
+  size: 97, 101
+  orig: 389, 389
+  offset: 144, 149
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_02
+  rotate: false
+  xy: 1384, 34
+  size: 111, 127
+  orig: 389, 389
+  offset: 139, 137
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_03
+  rotate: false
+  xy: 1078, 20
+  size: 131, 151
+  orig: 389, 389
+  offset: 128, 124
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_04
+  rotate: true
+  xy: 1211, 18
+  size: 147, 171
+  orig: 389, 389
+  offset: 118, 114
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_05
+  rotate: true
+  xy: 893, 10
+  size: 161, 183
+  orig: 389, 389
+  offset: 112, 107
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_06
+  rotate: false
+  xy: 1632, 181
+  size: 175, 195
+  orig: 389, 389
+  offset: 105, 100
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_07
+  rotate: false
+  xy: 1445, 163
+  size: 185, 207
+  orig: 389, 389
+  offset: 101, 94
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_08
+  rotate: true
+  xy: 1250, 372
+  size: 195, 217
+  orig: 389, 389
+  offset: 97, 88
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_09
+  rotate: true
+  xy: 1001, 173
+  size: 199, 225
+  orig: 389, 389
+  offset: 93, 84
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_10
+  rotate: true
+  xy: 1015, 374
+  size: 199, 233
+  orig: 389, 389
+  offset: 91, 79
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_11
+  rotate: true
+  xy: 650, 1
+  size: 197, 241
+  orig: 389, 389
+  offset: 87, 75
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_12
+  rotate: true
+  xy: 752, 200
+  size: 201, 247
+  orig: 389, 389
+  offset: 85, 72
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_13
+  rotate: true
+  xy: 760, 403
+  size: 205, 253
+  orig: 389, 389
+  offset: 82, 68
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_14
+  rotate: true
+  xy: 1086, 575
+  size: 209, 257
+  orig: 389, 389
+  offset: 78, 66
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_15
+  rotate: false
+  xy: 435, 6
+  size: 213, 257
+  orig: 389, 389
+  offset: 75, 66
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_16
+  rotate: true
+  xy: 1345, 569
+  size: 215, 253
+  orig: 389, 389
+  offset: 73, 68
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_17
+  rotate: true
+  xy: 1600, 567
+  size: 217, 249
+  orig: 389, 389
+  offset: 72, 70
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_18
+  rotate: false
+  xy: 1228, 167
+  size: 215, 203
+  orig: 389, 389
+  offset: 74, 72
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_19
+  rotate: false
+  xy: 1598, 378
+  size: 211, 187
+  orig: 389, 389
+  offset: 77, 86
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_20
+  rotate: false
+  xy: 1811, 307
+  size: 211, 187
+  orig: 389, 389
+  offset: 77, 87
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_21
+  rotate: false
+  xy: 1809, 120
+  size: 199, 185
+  orig: 389, 389
+  offset: 78, 88
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_22
+  rotate: true
+  xy: 1851, 639
+  size: 145, 181
+  orig: 389, 389
+  offset: 129, 90
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_23
+  rotate: true
+  xy: 1851, 496
+  size: 141, 179
+  orig: 389, 389
+  offset: 130, 91
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_24
+  rotate: false
+  xy: 1469, 408
+  size: 127, 159
+  orig: 389, 389
+  offset: 143, 92
+  index: -1

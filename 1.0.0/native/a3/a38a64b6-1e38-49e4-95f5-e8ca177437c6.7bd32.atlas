@@ -1,0 +1,531 @@
+
+numberX.jpg
+size: 1954,1007
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_flare_screen
+  rotate: true
+  xy: 569, 573
+  size: 216, 227
+  orig: 216, 227
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_00
+  rotate: true
+  xy: 1573, 528
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_01
+  rotate: true
+  xy: 1169, 373
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_02
+  rotate: false
+  xy: 1308, 374
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_03
+  rotate: false
+  xy: 875, 188
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_04
+  rotate: false
+  xy: 1002, 188
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_05
+  rotate: true
+  xy: 995, 11
+  size: 125, 136
+  orig: 125, 137
+  offset: 0, 1
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_06
+  rotate: false
+  xy: 1712, 517
+  size: 125, 136
+  orig: 125, 137
+  offset: 0, 1
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_07
+  rotate: false
+  xy: 1383, 236
+  size: 125, 136
+  orig: 125, 137
+  offset: 0, 1
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_08
+  rotate: false
+  xy: 1387, 100
+  size: 125, 134
+  orig: 125, 137
+  offset: 0, 3
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_09
+  rotate: true
+  xy: 1437, 396
+  size: 125, 134
+  orig: 125, 137
+  offset: 0, 3
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_10
+  rotate: true
+  xy: 1573, 401
+  size: 125, 134
+  orig: 125, 137
+  offset: 0, 3
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_11
+  rotate: true
+  xy: 1709, 390
+  size: 125, 132
+  orig: 125, 137
+  offset: 0, 5
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_12
+  rotate: false
+  xy: 1510, 262
+  size: 125, 132
+  orig: 125, 137
+  offset: 0, 5
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_13
+  rotate: true
+  xy: 856, 11
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_14
+  rotate: false
+  xy: 1129, 234
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_15
+  rotate: false
+  xy: 1256, 234
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_16
+  rotate: false
+  xy: 1133, 45
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtp_connect_unpack/mult_vfx_e_screen_17
+  rotate: false
+  xy: 1260, 45
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_00
+  rotate: false
+  xy: 1765, 309
+  size: 77, 79
+  orig: 389, 389
+  offset: 154, 159
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_01
+  rotate: true
+  xy: 1387, 1
+  size: 97, 101
+  orig: 389, 389
+  offset: 144, 149
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_02
+  rotate: false
+  xy: 1514, 1
+  size: 111, 127
+  orig: 389, 389
+  offset: 139, 137
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_03
+  rotate: false
+  xy: 550, 13
+  size: 131, 151
+  orig: 389, 389
+  offset: 128, 124
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_04
+  rotate: true
+  xy: 683, 18
+  size: 147, 171
+  orig: 389, 389
+  offset: 118, 114
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_05
+  rotate: true
+  xy: 1, 7
+  size: 161, 183
+  orig: 389, 389
+  offset: 112, 107
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_06
+  rotate: false
+  xy: 987, 600
+  size: 175, 195
+  orig: 389, 389
+  offset: 105, 100
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_07
+  rotate: false
+  xy: 490, 363
+  size: 185, 207
+  orig: 389, 389
+  offset: 101, 94
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_08
+  rotate: true
+  xy: 443, 166
+  size: 195, 217
+  orig: 389, 389
+  offset: 97, 88
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_09
+  rotate: true
+  xy: 216, 170
+  size: 199, 225
+  orig: 389, 389
+  offset: 93, 84
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_10
+  rotate: true
+  xy: 255, 371
+  size: 199, 233
+  orig: 389, 389
+  offset: 91, 79
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_11
+  rotate: true
+  xy: 326, 572
+  size: 197, 241
+  orig: 389, 389
+  offset: 87, 75
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_12
+  rotate: true
+  xy: 1588, 805
+  size: 201, 247
+  orig: 389, 389
+  offset: 85, 72
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_13
+  rotate: true
+  xy: 1082, 801
+  size: 205, 253
+  orig: 389, 389
+  offset: 82, 68
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_14
+  rotate: true
+  xy: 823, 797
+  size: 209, 257
+  orig: 389, 389
+  offset: 78, 66
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_15
+  rotate: false
+  xy: 1, 170
+  size: 213, 257
+  orig: 389, 389
+  offset: 75, 66
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_16
+  rotate: true
+  xy: 568, 791
+  size: 215, 253
+  orig: 389, 389
+  offset: 73, 68
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_17
+  rotate: true
+  xy: 1337, 789
+  size: 217, 249
+  orig: 389, 389
+  offset: 72, 70
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_18
+  rotate: true
+  xy: 677, 356
+  size: 215, 203
+  orig: 389, 389
+  offset: 74, 72
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_19
+  rotate: false
+  xy: 662, 167
+  size: 211, 187
+  orig: 389, 389
+  offset: 77, 86
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_20
+  rotate: true
+  xy: 798, 578
+  size: 211, 187
+  orig: 389, 389
+  offset: 77, 87
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_21
+  rotate: true
+  xy: 882, 377
+  size: 199, 185
+  orig: 389, 389
+  offset: 78, 88
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_22
+  rotate: true
+  xy: 186, 23
+  size: 145, 181
+  orig: 389, 389
+  offset: 129, 90
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_23
+  rotate: true
+  xy: 369, 23
+  size: 141, 179
+  orig: 389, 389
+  offset: 130, 91
+  index: -1
+fs_mtpadd_particle_unpack/mult_vfx_a_add_24
+  rotate: false
+  xy: 1164, 640
+  size: 127, 159
+  orig: 389, 389
+  offset: 143, 92
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_00
+  rotate: true
+  xy: 1069, 391
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_01
+  rotate: true
+  xy: 1119, 391
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_02
+  rotate: false
+  xy: 1588, 755
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_03
+  rotate: false
+  xy: 1573, 705
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_04
+  rotate: false
+  xy: 1573, 655
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_05
+  rotate: false
+  xy: 882, 327
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_06
+  rotate: false
+  xy: 875, 138
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_07
+  rotate: false
+  xy: 1129, 184
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_08
+  rotate: true
+  xy: 1644, 53
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_09
+  rotate: true
+  xy: 1694, 53
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_10
+  rotate: true
+  xy: 1744, 53
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_11
+  rotate: false
+  xy: 1627, 3
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_12
+  rotate: true
+  xy: 1794, 100
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_13
+  rotate: true
+  xy: 1839, 569
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_14
+  rotate: true
+  xy: 1889, 569
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_15
+  rotate: true
+  xy: 1844, 360
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_16
+  rotate: true
+  xy: 1844, 151
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+fs_tb_loop_unpack/mult_vfx_d_screen_17
+  rotate: true
+  xy: 1894, 360
+  size: 207, 48
+  orig: 207, 48
+  offset: 0, 0
+  index: -1
+glow_02_bw
+  rotate: false
+  xy: 255, 651
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+mult_vfx_b_add
+  rotate: false
+  xy: 326, 771
+  size: 240, 235
+  orig: 240, 235
+  offset: 0, 0
+  index: -1
+shuffle_vfx_b_screen
+  rotate: false
+  xy: 1, 429
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+sym_win_unpack/wh_vfx_b_add_00
+  rotate: true
+  xy: 1837, 778
+  size: 106, 112
+  orig: 154, 154
+  offset: 24, 21
+  index: -1
+sym_win_unpack/wh_vfx_b_add_01
+  rotate: false
+  xy: 1837, 886
+  size: 116, 120
+  orig: 154, 154
+  offset: 19, 17
+  index: -1
+sym_win_unpack/wh_vfx_b_add_02
+  rotate: false
+  xy: 1637, 262
+  size: 126, 126
+  orig: 154, 154
+  offset: 14, 14
+  index: -1
+sym_win_unpack/wh_vfx_b_add_03
+  rotate: false
+  xy: 1437, 523
+  size: 134, 130
+  orig: 154, 154
+  offset: 10, 12
+  index: -1
+sym_win_unpack/wh_vfx_b_add_04
+  rotate: false
+  xy: 1293, 653
+  size: 138, 134
+  orig: 154, 154
+  offset: 8, 10
+  index: -1
+sym_win_unpack/wh_vfx_b_add_05
+  rotate: false
+  xy: 1433, 655
+  size: 138, 132
+  orig: 154, 154
+  offset: 8, 11
+  index: -1
+sym_win_unpack/wh_vfx_b_add_06
+  rotate: true
+  xy: 1169, 500
+  size: 138, 132
+  orig: 154, 154
+  offset: 8, 12
+  index: -1
+sym_win_unpack/wh_vfx_b_add_07
+  rotate: true
+  xy: 1303, 513
+  size: 138, 132
+  orig: 154, 154
+  offset: 8, 12
+  index: -1
+sym_win_unpack/wh_vfx_b_add_08
+  rotate: true
+  xy: 1514, 130
+  size: 130, 128
+  orig: 154, 154
+  offset: 12, 15
+  index: -1
+tw_flare_b_add
+  rotate: false
+  xy: 1, 683
+  size: 323, 323
+  orig: 323, 323
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,440 @@
+
+jiasu.jpg
+size: 1842,1585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bark
+  rotate: false
+  xy: 154, 62
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_00
+  rotate: true
+  xy: 1528, 60
+  size: 85, 313
+  orig: 125, 431
+  offset: 23, 17
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_01
+  rotate: true
+  xy: 1528, 147
+  size: 87, 313
+  orig: 125, 431
+  offset: 21, 17
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_02
+  rotate: true
+  xy: 1158, 50
+  size: 91, 353
+  orig: 125, 431
+  offset: 17, 17
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_03
+  rotate: true
+  xy: 1159, 143
+  size: 91, 367
+  orig: 125, 431
+  offset: 17, 17
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_04
+  rotate: true
+  xy: 757, 11
+  size: 91, 373
+  orig: 125, 431
+  offset: 17, 17
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_05
+  rotate: false
+  xy: 262, 665
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_06
+  rotate: false
+  xy: 262, 264
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_07
+  rotate: false
+  xy: 1437, 637
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_08
+  rotate: false
+  xy: 1532, 637
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_09
+  rotate: false
+  xy: 1627, 637
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_10
+  rotate: false
+  xy: 1329, 243
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_11
+  rotate: false
+  xy: 1424, 236
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_12
+  rotate: false
+  xy: 1519, 236
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_13
+  rotate: false
+  xy: 1614, 236
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_14
+  rotate: false
+  xy: 1722, 637
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_15
+  rotate: false
+  xy: 1709, 236
+  size: 93, 399
+  orig: 125, 431
+  offset: 15, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_16
+  rotate: true
+  xy: 357, 197
+  size: 91, 399
+  orig: 125, 431
+  offset: 17, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_17
+  rotate: true
+  xy: 758, 197
+  size: 91, 399
+  orig: 125, 431
+  offset: 17, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_18
+  rotate: true
+  xy: 356, 104
+  size: 91, 399
+  orig: 125, 431
+  offset: 17, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_19
+  rotate: true
+  xy: 757, 104
+  size: 91, 399
+  orig: 125, 431
+  offset: 17, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_20
+  rotate: true
+  xy: 356, 13
+  size: 89, 399
+  orig: 125, 431
+  offset: 19, 16
+  index: -1
+fs_coin_particle_light_unpack/fs_particle_21
+  rotate: true
+  xy: 1352, 1038
+  size: 83, 397
+  orig: 125, 431
+  offset: 25, 17
+  index: -1
+fs_edge_glow
+  rotate: false
+  xy: 1, 1066
+  size: 284, 518
+  orig: 284, 518
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_00
+  rotate: false
+  xy: 154, 672
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_01
+  rotate: true
+  xy: 1352, 1123
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_02
+  rotate: false
+  xy: 154, 278
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_03
+  rotate: false
+  xy: 357, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_04
+  rotate: false
+  xy: 465, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_05
+  rotate: false
+  xy: 573, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_06
+  rotate: false
+  xy: 681, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_07
+  rotate: false
+  xy: 789, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_08
+  rotate: false
+  xy: 897, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_09
+  rotate: false
+  xy: 1005, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_10
+  rotate: false
+  xy: 1113, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_11
+  rotate: false
+  xy: 1221, 684
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_12
+  rotate: false
+  xy: 357, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_13
+  rotate: false
+  xy: 465, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_14
+  rotate: false
+  xy: 573, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_15
+  rotate: false
+  xy: 681, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_16
+  rotate: false
+  xy: 789, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_17
+  rotate: false
+  xy: 897, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_18
+  rotate: false
+  xy: 1005, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_19
+  rotate: false
+  xy: 1113, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_20
+  rotate: false
+  xy: 1221, 290
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+su_frame_animation_unpack/fs_glow_21
+  rotate: false
+  xy: 1329, 644
+  size: 106, 392
+  orig: 106, 392
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_00
+  rotate: false
+  xy: 1, 711
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_01
+  rotate: false
+  xy: 287, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_02
+  rotate: false
+  xy: 1, 356
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_03
+  rotate: false
+  xy: 440, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_04
+  rotate: false
+  xy: 1, 1
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_05
+  rotate: false
+  xy: 593, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_06
+  rotate: true
+  xy: 287, 1078
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_07
+  rotate: false
+  xy: 746, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_08
+  rotate: false
+  xy: 899, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_09
+  rotate: true
+  xy: 642, 1078
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_10
+  rotate: false
+  xy: 1052, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_11
+  rotate: false
+  xy: 1205, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_12
+  rotate: true
+  xy: 997, 1078
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_13
+  rotate: false
+  xy: 1358, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_14
+  rotate: false
+  xy: 1511, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1
+wait_wave_unpack/sd_glow_15
+  rotate: false
+  xy: 1664, 1231
+  size: 151, 353
+  orig: 151, 353
+  offset: 0, 0
+  index: -1

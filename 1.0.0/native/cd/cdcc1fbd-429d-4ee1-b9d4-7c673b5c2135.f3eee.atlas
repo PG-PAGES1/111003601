@@ -1,0 +1,237 @@
+
+wild.jpg
+size: 880,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_00
+  rotate: false
+  xy: 289, 124
+  size: 70, 185
+  orig: 70, 237
+  offset: 0, 27
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_01
+  rotate: false
+  xy: 217, 85
+  size: 70, 215
+  orig: 70, 237
+  offset: 0, 7
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_02
+  rotate: false
+  xy: 1, 284
+  size: 70, 237
+  orig: 70, 237
+  offset: 0, 0
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_03
+  rotate: false
+  xy: 145, 291
+  size: 70, 230
+  orig: 70, 237
+  offset: 0, 7
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_04
+  rotate: false
+  xy: 145, 60
+  size: 70, 229
+  orig: 70, 237
+  offset: 0, 0
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_05
+  rotate: false
+  xy: 1, 45
+  size: 70, 237
+  orig: 70, 237
+  offset: 0, 0
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_06
+  rotate: false
+  xy: 217, 302
+  size: 70, 219
+  orig: 70, 237
+  offset: 0, 0
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_07
+  rotate: false
+  xy: 73, 47
+  size: 70, 235
+  orig: 70, 237
+  offset: 0, 0
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_08
+  rotate: false
+  xy: 73, 284
+  size: 70, 237
+  orig: 70, 237
+  offset: 0, 0
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_09
+  rotate: false
+  xy: 289, 311
+  size: 70, 210
+  orig: 70, 237
+  offset: 0, 27
+  index: -1
+silver_shuffle_particle_unpack/shuffle_vfx_c_screen_10
+  rotate: true
+  xy: 361, 87
+  size: 70, 169
+  orig: 70, 237
+  offset: 0, 36
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_00
+  rotate: true
+  xy: 123, 11
+  size: 34, 14
+  orig: 104, 210
+  offset: 33, 98
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_01
+  rotate: false
+  xy: 393, 3
+  size: 70, 82
+  orig: 104, 210
+  offset: 17, 65
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_02
+  rotate: false
+  xy: 635, 1
+  size: 76, 88
+  orig: 104, 210
+  offset: 14, 62
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_03
+  rotate: true
+  xy: 761, 153
+  size: 76, 92
+  orig: 104, 210
+  offset: 14, 60
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_04
+  rotate: false
+  xy: 451, 371
+  size: 76, 150
+  orig: 104, 210
+  offset: 14, 31
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_05
+  rotate: false
+  xy: 449, 179
+  size: 78, 160
+  orig: 104, 210
+  offset: 13, 26
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_06
+  rotate: true
+  xy: 465, 5
+  size: 80, 168
+  orig: 104, 210
+  offset: 11, 22
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_07
+  rotate: true
+  xy: 217, 1
+  size: 82, 174
+  orig: 104, 210
+  offset: 10, 19
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_08
+  rotate: false
+  xy: 361, 159
+  size: 86, 180
+  orig: 104, 210
+  offset: 8, 15
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_09
+  rotate: false
+  xy: 361, 341
+  size: 88, 180
+  orig: 104, 210
+  offset: 7, 16
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_10
+  rotate: true
+  xy: 763, 231
+  size: 92, 106
+  orig: 104, 210
+  offset: 5, 52
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_11
+  rotate: false
+  xy: 529, 163
+  size: 94, 108
+  orig: 104, 210
+  offset: 5, 50
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_12
+  rotate: true
+  xy: 763, 325
+  size: 96, 112
+  orig: 104, 210
+  offset: 4, 48
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_13
+  rotate: true
+  xy: 763, 423
+  size: 98, 116
+  orig: 104, 210
+  offset: 3, 46
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_14
+  rotate: false
+  xy: 532, 273
+  size: 100, 120
+  orig: 104, 210
+  offset: 2, 44
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_15
+  rotate: false
+  xy: 625, 91
+  size: 102, 122
+  orig: 104, 210
+  offset: 1, 43
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_16
+  rotate: true
+  xy: 635, 215
+  size: 102, 124
+  orig: 104, 210
+  offset: 0, 41
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_17
+  rotate: true
+  xy: 635, 419
+  size: 102, 126
+  orig: 104, 210
+  offset: 0, 40
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_18
+  rotate: false
+  xy: 532, 395
+  size: 100, 126
+  orig: 104, 210
+  offset: 0, 40
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_19
+  rotate: true
+  xy: 635, 319
+  size: 98, 126
+  orig: 104, 210
+  offset: 0, 41
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_20
+  rotate: true
+  xy: 713, 9
+  size: 80, 122
+  orig: 104, 210
+  offset: 0, 43
+  index: -1
+silver_shuffle_win_unpack/shuffle_vfx_d_add_21
+  rotate: true
+  xy: 1, 5
+  size: 38, 120
+  orig: 104, 210
+  offset: 3, 44
+  index: -1
